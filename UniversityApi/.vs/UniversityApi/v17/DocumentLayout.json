@@ -1,0 +1,432 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABABBE9D-1B7B-4C8C-80A7-6A2A5C6EDFFD}|UniversityApi\\UniversityApi.csproj|c:\\users\\asus\\desktop\\task1\\universityapi\\universityapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABABBE9D-1B7B-4C8C-80A7-6A2A5C6EDFFD}|UniversityApi\\UniversityApi.csproj|solutionrelative:universityapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABABBE9D-1B7B-4C8C-80A7-6A2A5C6EDFFD}|UniversityApi\\UniversityApi.csproj|c:\\users\\asus\\desktop\\task1\\universityapi\\universityapi\\dtos\\editstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABABBE9D-1B7B-4C8C-80A7-6A2A5C6EDFFD}|UniversityApi\\UniversityApi.csproj|solutionrelative:universityapi\\dtos\\editstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABABBE9D-1B7B-4C8C-80A7-6A2A5C6EDFFD}|UniversityApi\\UniversityApi.csproj|c:\\users\\asus\\desktop\\task1\\universityapi\\universityapi\\dtos\\createstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABABBE9D-1B7B-4C8C-80A7-6A2A5C6EDFFD}|UniversityApi\\UniversityApi.csproj|solutionrelative:universityapi\\dtos\\createstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABABBE9D-1B7B-4C8C-80A7-6A2A5C6EDFFD}|UniversityApi\\UniversityApi.csproj|c:\\users\\asus\\desktop\\task1\\universityapi\\universityapi\\dtos\\createdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABABBE9D-1B7B-4C8C-80A7-6A2A5C6EDFFD}|UniversityApi\\UniversityApi.csproj|solutionrelative:universityapi\\dtos\\createdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABABBE9D-1B7B-4C8C-80A7-6A2A5C6EDFFD}|UniversityApi\\UniversityApi.csproj|c:\\users\\asus\\desktop\\task1\\universityapi\\universityapi\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABABBE9D-1B7B-4C8C-80A7-6A2A5C6EDFFD}|UniversityApi\\UniversityApi.csproj|solutionrelative:universityapi\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABABBE9D-1B7B-4C8C-80A7-6A2A5C6EDFFD}|UniversityApi\\UniversityApi.csproj|c:\\users\\asus\\desktop\\task1\\universityapi\\universityapi\\dtos\\getstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABABBE9D-1B7B-4C8C-80A7-6A2A5C6EDFFD}|UniversityApi\\UniversityApi.csproj|solutionrelative:universityapi\\dtos\\getstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABABBE9D-1B7B-4C8C-80A7-6A2A5C6EDFFD}|UniversityApi\\UniversityApi.csproj|c:\\users\\asus\\desktop\\task1\\universityapi\\universityapi\\data\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABABBE9D-1B7B-4C8C-80A7-6A2A5C6EDFFD}|UniversityApi\\UniversityApi.csproj|solutionrelative:universityapi\\data\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABABBE9D-1B7B-4C8C-80A7-6A2A5C6EDFFD}|UniversityApi\\UniversityApi.csproj|c:\\users\\asus\\desktop\\task1\\universityapi\\universityapi\\dtos\\groupgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABABBE9D-1B7B-4C8C-80A7-6A2A5C6EDFFD}|UniversityApi\\UniversityApi.csproj|solutionrelative:universityapi\\dtos\\groupgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\Migrations\\20240605115017_StudentAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UniversityApi\\Migrations\\20240605115017_StudentAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABABBE9D-1B7B-4C8C-80A7-6A2A5C6EDFFD}|UniversityApi\\UniversityApi.csproj|c:\\users\\asus\\desktop\\task1\\universityapi\\universityapi\\data\\configrations\\studentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABABBE9D-1B7B-4C8C-80A7-6A2A5C6EDFFD}|UniversityApi\\UniversityApi.csproj|solutionrelative:universityapi\\data\\configrations\\studentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABABBE9D-1B7B-4C8C-80A7-6A2A5C6EDFFD}|UniversityApi\\UniversityApi.csproj|c:\\users\\asus\\desktop\\task1\\universityapi\\universityapi\\data\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABABBE9D-1B7B-4C8C-80A7-6A2A5C6EDFFD}|UniversityApi\\UniversityApi.csproj|solutionrelative:universityapi\\data\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABABBE9D-1B7B-4C8C-80A7-6A2A5C6EDFFD}|UniversityApi\\UniversityApi.csproj|c:\\users\\asus\\desktop\\task1\\universityapi\\universityapi\\data\\configrations\\groupconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABABBE9D-1B7B-4C8C-80A7-6A2A5C6EDFFD}|UniversityApi\\UniversityApi.csproj|solutionrelative:universityapi\\data\\configrations\\groupconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABABBE9D-1B7B-4C8C-80A7-6A2A5C6EDFFD}|UniversityApi\\UniversityApi.csproj|c:\\users\\asus\\desktop\\task1\\universityapi\\universityapi\\data\\unidatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABABBE9D-1B7B-4C8C-80A7-6A2A5C6EDFFD}|UniversityApi\\UniversityApi.csproj|solutionrelative:universityapi\\data\\unidatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABABBE9D-1B7B-4C8C-80A7-6A2A5C6EDFFD}|UniversityApi\\UniversityApi.csproj|c:\\users\\asus\\desktop\\task1\\universityapi\\universityapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABABBE9D-1B7B-4C8C-80A7-6A2A5C6EDFFD}|UniversityApi\\UniversityApi.csproj|solutionrelative:universityapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABABBE9D-1B7B-4C8C-80A7-6A2A5C6EDFFD}|UniversityApi\\UniversityApi.csproj|c:\\users\\asus\\desktop\\task1\\universityapi\\universityapi\\dtos\\editdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABABBE9D-1B7B-4C8C-80A7-6A2A5C6EDFFD}|UniversityApi\\UniversityApi.csproj|solutionrelative:universityapi\\dtos\\editdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABABBE9D-1B7B-4C8C-80A7-6A2A5C6EDFFD}|UniversityApi\\UniversityApi.csproj|c:\\users\\asus\\desktop\\task1\\universityapi\\universityapi\\migrations\\20240603204858_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABABBE9D-1B7B-4C8C-80A7-6A2A5C6EDFFD}|UniversityApi\\UniversityApi.csproj|solutionrelative:universityapi\\migrations\\20240603204858_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABABBE9D-1B7B-4C8C-80A7-6A2A5C6EDFFD}|UniversityApi\\UniversityApi.csproj|c:\\users\\asus\\desktop\\task1\\universityapi\\universityapi\\migrations\\20240603205702_init5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABABBE9D-1B7B-4C8C-80A7-6A2A5C6EDFFD}|UniversityApi\\UniversityApi.csproj|solutionrelative:universityapi\\migrations\\20240603205702_init5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABABBE9D-1B7B-4C8C-80A7-6A2A5C6EDFFD}|UniversityApi\\UniversityApi.csproj|c:\\users\\asus\\desktop\\task1\\universityapi\\universityapi\\universityapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ABABBE9D-1B7B-4C8C-80A7-6A2A5C6EDFFD}|UniversityApi\\UniversityApi.csproj|solutionrelative:universityapi\\universityapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABABBE9D-1B7B-4C8C-80A7-6A2A5C6EDFFD}|UniversityApi\\UniversityApi.csproj|c:\\users\\asus\\desktop\\task1\\universityapi\\universityapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ABABBE9D-1B7B-4C8C-80A7-6A2A5C6EDFFD}|UniversityApi\\UniversityApi.csproj|solutionrelative:universityapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABABBE9D-1B7B-4C8C-80A7-6A2A5C6EDFFD}|UniversityApi\\UniversityApi.csproj|c:\\users\\asus\\desktop\\task1\\universityapi\\universityapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ABABBE9D-1B7B-4C8C-80A7-6A2A5C6EDFFD}|UniversityApi\\UniversityApi.csproj|solutionrelative:universityapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABABBE9D-1B7B-4C8C-80A7-6A2A5C6EDFFD}|UniversityApi\\UniversityApi.csproj|c:\\users\\asus\\desktop\\task1\\universityapi\\universityapi\\migrations\\20240603204456_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABABBE9D-1B7B-4C8C-80A7-6A2A5C6EDFFD}|UniversityApi\\UniversityApi.csproj|solutionrelative:universityapi\\migrations\\20240603204456_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABABBE9D-1B7B-4C8C-80A7-6A2A5C6EDFFD}|UniversityApi\\UniversityApi.csproj|c:\\users\\asus\\desktop\\task1\\universityapi\\universityapi\\migrations\\20240603213151_modifieratfixed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABABBE9D-1B7B-4C8C-80A7-6A2A5C6EDFFD}|UniversityApi\\UniversityApi.csproj|solutionrelative:universityapi\\migrations\\20240603213151_modifieratfixed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABABBE9D-1B7B-4C8C-80A7-6A2A5C6EDFFD}|UniversityApi\\UniversityApi.csproj|c:\\users\\asus\\desktop\\task1\\universityapi\\universityapi\\migrations\\20240603205550_init4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABABBE9D-1B7B-4C8C-80A7-6A2A5C6EDFFD}|UniversityApi\\UniversityApi.csproj|solutionrelative:universityapi\\migrations\\20240603205550_init4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABABBE9D-1B7B-4C8C-80A7-6A2A5C6EDFFD}|UniversityApi\\UniversityApi.csproj|c:\\users\\asus\\desktop\\task1\\universityapi\\universityapi\\migrations\\20240603205059_init3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABABBE9D-1B7B-4C8C-80A7-6A2A5C6EDFFD}|UniversityApi\\UniversityApi.csproj|solutionrelative:universityapi\\migrations\\20240603205059_init3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditStudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\Dtos\\EditStudentDto.cs",
+              "RelativeDocumentMoniker": "UniversityApi\\Dtos\\EditStudentDto.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\Dtos\\EditStudentDto.cs",
+              "RelativeToolTip": "UniversityApi\\Dtos\\EditStudentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T11:58:33.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateStudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\Dtos\\CreateStudentDto.cs",
+              "RelativeDocumentMoniker": "UniversityApi\\Dtos\\CreateStudentDto.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\Dtos\\CreateStudentDto.cs",
+              "RelativeToolTip": "UniversityApi\\Dtos\\CreateStudentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T11:57:37.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetStudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\Dtos\\GetStudentDto.cs",
+              "RelativeDocumentMoniker": "UniversityApi\\Dtos\\GetStudentDto.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\Dtos\\GetStudentDto.cs",
+              "RelativeToolTip": "UniversityApi\\Dtos\\GetStudentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T11:54:00.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "UniversityApi\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "UniversityApi\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAAAFUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T11:51:25.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GroupGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\Dtos\\GroupGetDto.cs",
+              "RelativeDocumentMoniker": "UniversityApi\\Dtos\\GroupGetDto.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\Dtos\\GroupGetDto.cs",
+              "RelativeToolTip": "UniversityApi\\Dtos\\GroupGetDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:27:23.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\Data\\Student.cs",
+              "RelativeDocumentMoniker": "UniversityApi\\Data\\Student.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\Data\\Student.cs",
+              "RelativeToolTip": "UniversityApi\\Data\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T11:01:32.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\Dtos\\CreateDto.cs",
+              "RelativeDocumentMoniker": "UniversityApi\\Dtos\\CreateDto.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\Dtos\\CreateDto.cs",
+              "RelativeToolTip": "UniversityApi\\Dtos\\CreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T21:24:23.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GroupsController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\Controllers\\GroupsController.cs",
+              "RelativeDocumentMoniker": "UniversityApi\\Controllers\\GroupsController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\Controllers\\GroupsController.cs",
+              "RelativeToolTip": "UniversityApi\\Controllers\\GroupsController.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAACUAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:30:11.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240605115017_StudentAdded.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\Migrations\\20240605115017_StudentAdded.cs",
+              "RelativeDocumentMoniker": "UniversityApi\\Migrations\\20240605115017_StudentAdded.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\Migrations\\20240605115017_StudentAdded.cs",
+              "RelativeToolTip": "UniversityApi\\Migrations\\20240605115017_StudentAdded.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T11:50:17.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\Data\\Configrations\\StudentConfiguration.cs",
+              "RelativeDocumentMoniker": "UniversityApi\\Data\\Configrations\\StudentConfiguration.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\Data\\Configrations\\StudentConfiguration.cs",
+              "RelativeToolTip": "UniversityApi\\Data\\Configrations\\StudentConfiguration.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T11:25:39.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GroupConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\Data\\Configrations\\GroupConfiguration.cs",
+              "RelativeDocumentMoniker": "UniversityApi\\Data\\Configrations\\GroupConfiguration.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\Data\\Configrations\\GroupConfiguration.cs",
+              "RelativeToolTip": "UniversityApi\\Data\\Configrations\\GroupConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T11:25:19.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\Program.cs",
+              "RelativeDocumentMoniker": "UniversityApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\Program.cs",
+              "RelativeToolTip": "UniversityApi\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAtwBEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:16:00.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UniDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\Data\\UniDatabase.cs",
+              "RelativeDocumentMoniker": "UniversityApi\\Data\\UniDatabase.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\Data\\UniDatabase.cs",
+              "RelativeToolTip": "UniversityApi\\Data\\UniDatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:16:34.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\Data\\Group.cs",
+              "RelativeDocumentMoniker": "UniversityApi\\Data\\Group.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\Data\\Group.cs",
+              "RelativeToolTip": "UniversityApi\\Data\\Group.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:16:19.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240603204858_init2.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\Migrations\\20240603204858_init2.cs",
+              "RelativeDocumentMoniker": "UniversityApi\\Migrations\\20240603204858_init2.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\Migrations\\20240603204858_init2.cs",
+              "RelativeToolTip": "UniversityApi\\Migrations\\20240603204858_init2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:48:58.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EditDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\Dtos\\EditDto.cs",
+              "RelativeDocumentMoniker": "UniversityApi\\Dtos\\EditDto.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\Dtos\\EditDto.cs",
+              "RelativeToolTip": "UniversityApi\\Dtos\\EditDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T21:26:51.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240603205702_init5.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\Migrations\\20240603205702_init5.cs",
+              "RelativeDocumentMoniker": "UniversityApi\\Migrations\\20240603205702_init5.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\Migrations\\20240603205702_init5.cs",
+              "RelativeToolTip": "UniversityApi\\Migrations\\20240603205702_init5.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:57:03.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240603213151_ModifierAtFixed.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\Migrations\\20240603213151_ModifierAtFixed.cs",
+              "RelativeDocumentMoniker": "UniversityApi\\Migrations\\20240603213151_ModifierAtFixed.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\Migrations\\20240603213151_ModifierAtFixed.cs",
+              "RelativeToolTip": "UniversityApi\\Migrations\\20240603213151_ModifierAtFixed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T21:31:51.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UniversityApi.csproj",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\UniversityApi.csproj",
+              "RelativeDocumentMoniker": "UniversityApi\\UniversityApi.csproj",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\UniversityApi.csproj",
+              "RelativeToolTip": "UniversityApi\\UniversityApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-03T20:56:38.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "UniversityApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "UniversityApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-03T20:53:21.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240603205550_init4.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\Migrations\\20240603205550_init4.cs",
+              "RelativeDocumentMoniker": "UniversityApi\\Migrations\\20240603205550_init4.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\Migrations\\20240603205550_init4.cs",
+              "RelativeToolTip": "UniversityApi\\Migrations\\20240603205550_init4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:55:50.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240603205059_init3.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\Migrations\\20240603205059_init3.cs",
+              "RelativeDocumentMoniker": "UniversityApi\\Migrations\\20240603205059_init3.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\Migrations\\20240603205059_init3.cs",
+              "RelativeToolTip": "UniversityApi\\Migrations\\20240603205059_init3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:50:59.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240603204456_init.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\Migrations\\20240603204456_init.cs",
+              "RelativeDocumentMoniker": "UniversityApi\\Migrations\\20240603204456_init.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\Migrations\\20240603204456_init.cs",
+              "RelativeToolTip": "UniversityApi\\Migrations\\20240603204456_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:44:56.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\appsettings.json",
+              "RelativeDocumentMoniker": "UniversityApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\appsettings.json",
+              "RelativeToolTip": "UniversityApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-03T20:13:04.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
